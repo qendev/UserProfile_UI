@@ -92,6 +92,17 @@
     </string>
     <string name="title_activity_profile">Profile</string>
     <string name="action_settings">Settings</string>
+    <string name="textView_my_info">My Info</string>
+    <string name="textViewname">Name</string>
+    <string name="textView_qendev">qendev</string>
+    <string name="textView_mobile">Mobile</string>
+    <string name="textView_mobileContact">+2** 12 000 000</string>
+    <string name="textView_email">Email</string>
+    <string name="textView_emailaddress">qendev@email.com</string>
+    <string name="textViewaddress">Address</string>
+    <string name="textView_streetAddress">Street Address</string>
+    <string name="text_d_o_b">D.O.B</string>
+    <string name="textView_dateofbirth">1-01-1400</string>
 
 
 </resources>
