@@ -18,7 +18,7 @@
 
         <TextView
             style="@style/headerText"
-            android:text="Account Info"
+            android:text="My Info"
             android:layout_marginBottom="20dp"/>
 
         <RelativeLayout style="@style/profileDetailsLayout">
