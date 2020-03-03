@@ -18,7 +18,7 @@
 
         <TextView
             style="@style/headerText"
-            android:text="My Info"
+            android:text="@string/textView_my_info"
             android:layout_marginBottom="20dp"/>
 
         <RelativeLayout style="@style/profileDetailsLayout">
@@ -29,12 +29,12 @@
 
             <TextView
                 android:id="@+id/nameTextView"
-                android:text="Name"
+                android:text="@string/textViewname"
                 android:layout_toRightOf="@id/nameImageView"
                 style="@style/profileDetailsTextMain" />
 
             <TextView
-                android:text="qendev"
+                android:text="@string/textView_qendev"
                 android:layout_toRightOf="@id/nameImageView"
                 style="@style/profileDetailsMiniText" />
 
@@ -48,12 +48,12 @@
                 style="@style/profileDetailsImage" />
 
             <TextView
-                android:text="Mobile"
+                android:text="@string/textView_mobile"
                 android:layout_toRightOf="@id/mobileImageView"
                 style="@style/profileDetailsTextMain"/>
 
             <TextView
-                android:text="+2** 12 000 000"
+                android:text="@string/textView_mobileContact"
                 android:layout_toRightOf="@id/mobileImageView"
                 style="@style/profileDetailsMiniText" />
 
@@ -67,12 +67,12 @@
                 style="@style/profileDetailsImage" />
 
             <TextView
-                android:text="Email"
+                android:text="@string/textView_email"
                 android:layout_toRightOf="@id/emailImageView"
                 style="@style/profileDetailsTextMain" />
 
             <TextView
-                android:text="qendev@email.com"
+                android:text="@string/textView_emailaddress"
                 android:layout_toRightOf="@id/emailImageView"
                 style="@style/profileDetailsMiniText" />
 
@@ -86,12 +86,12 @@
                 style="@style/profileDetailsImage" />
 
             <TextView
-                android:text="Address"
+                android:text="@string/textViewaddress"
                 android:layout_toRightOf="@id/addressImageView"
                 style="@style/profileDetailsTextMain" />
 
             <TextView
-                android:text="Street Address"
+                android:text="@string/textView_streetAddress"
                 android:layout_toRightOf="@id/addressImageView"
                 style="@style/profileDetailsMiniText" />
 
@@ -105,12 +105,12 @@
                 style="@style/profileDetailsImage" />
 
             <TextView
-                android:text="D.O.B"
+                android:text="@string/text_d_o_b"
                 android:layout_toRightOf="@id/dobImageView"
                 style="@style/profileDetailsTextMain" />
 
             <TextView
-                android:text="1-01-1400"
+                android:text="@string/textView_dateofbirth"
                 android:layout_toRightOf="@id/dobImageView"
                 style="@style/profileDetailsMiniText" />
 
